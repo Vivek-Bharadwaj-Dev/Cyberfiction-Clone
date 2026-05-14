@@ -1,6 +1,6 @@
 # Cyberfiction Clone
 
-**🔗 Live Preview:** [https://cyberfiction-clone1.vercel.app/](https://cyberfiction-clone1.vercel.app/)
+**🔗 Live Preview:** [https://cyberfiction-work.vercel.app/](https://cyberfiction-work.vercel.app/)
 
 A visually stunning, high-performance web clone of Cyberfiction.io built with HTML, CSS, JavaScript, and GSAP.
 
